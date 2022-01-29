@@ -1,0 +1,32 @@
+.navbar{
+    background:white;
+    height: 120px;
+    padding:0px;
+}
+.navbartoggle{
+    outline: none;
+    box-shadow: none;
+}
+.navbaritem{
+    padding:.5rem 1rem  !important;
+    margin:.5rem;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight:800;
+    font-size: 17px;
+    line-height: 22px;
+    color: #212832;
+}
+.navbaritembutton{
+    padding:.5rem 1rem  !important;
+    margin:.5rem;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight:800;
+    font-size: 17px;
+    line-height: 22px;
+    color: #212832;
+    border: 1px solid #212832;
+    box-sizing: border-box;
+    border-radius: 5px;
+}

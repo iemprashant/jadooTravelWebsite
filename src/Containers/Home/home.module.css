@@ -1,0 +1,7 @@
+.backgroundimg{
+    position:relative;
+    background-image: url(../../Assests/Decore.png);
+    background-repeat: no-repeat;
+    background-position:right top;
+    background-size: 40%;
+}

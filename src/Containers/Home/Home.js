@@ -1,10 +1,12 @@
 import React from 'react';
+import Mainbanner from '../../Components/Mainbanner/mainbanner/mainbanner';
 import Navbar from '../../Components/navbar/navbar';
+import styles from './home.module.css';
 function Home() {
   return (
-    <div>
+    <div className={styles.backgroundimg}>
       <Navbar />
-      <h1>this is home page</h1>
+      <Mainbanner />
     </div>
   );
 }

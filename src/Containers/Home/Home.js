@@ -5,6 +5,7 @@ import Navbar from '../../Components/navbar/navbar';
 import Footer from '../../Components/footer/footer';
 import Destinations from '../../Components/destinations/destinations';
 import styles from './home.module.css';
+import Subscribesection from '../../Components/subscribesection/subscribesection';
 
 function Home() {
   return (
@@ -13,6 +14,7 @@ function Home() {
       <Mainbanner />
       <Category />
       <Destinations />
+      <Subscribesection />
       <Footer />
     </div>
   );

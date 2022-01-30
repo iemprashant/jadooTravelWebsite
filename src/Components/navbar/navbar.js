@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 const navbar = () => {
   return (
     <Navbar expand="lg" className={styles.navbar}>
-      <Container className=" mt-3 p-0  m-mb-3 mx-lg-5 px-lg-5 pd-0 ">
+      <Container className=" mt-3 p-0  m-mb-3 mx-lg-5 px-lg-5 ">
         <Container className="d-flex justify-content-between">
           <Navbar.Brand as={Link} to="/" className={styles.navbarbrand}>
             <img src={mainLogo} alt="fireSpot" />

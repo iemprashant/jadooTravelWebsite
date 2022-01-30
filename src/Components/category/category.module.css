@@ -46,7 +46,7 @@
 .card{
     padding: 0rem 2rem;
     height:26rem;
-  
+    margin-bottom: -2rem;
 }
 .cardbody{
     text-align: center;
@@ -54,8 +54,6 @@
     border-radius: 2rem;
     height: 20rem;
     padding:1rem;
-    flex-wrap: wrap;
-    align-content: center;
     display:flex;
     flex-direction: column;
 }

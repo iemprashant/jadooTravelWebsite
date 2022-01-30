@@ -29,9 +29,13 @@
     box-sizing: border-box;
     border-radius: 5px;
 }
-
 @media (max-width: 576px) {
     .navbaritem{
         margin:.25rem;
+    }
+  }
+  @media (max-width: 991.98px) {
+    .navbarcollapse{
+        background-color:white;
     }
   }

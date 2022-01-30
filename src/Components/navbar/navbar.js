@@ -22,7 +22,7 @@ const navbar = () => {
         </Container>
         <Container>
           <Navbar.Collapse id="basic-navbar-nav justify-items-end">
-            <Nav className="m-2 align-items-center">
+            <Nav className="m-2  align-items-center">
               <Nav.Link
                 as={Link}
                 to="/destinations"
@@ -50,6 +50,7 @@ const navbar = () => {
                 Signup
               </Nav.Link>
               <NavDropdown
+                title="EN"
                 className={styles.navbaritem}
                 id="basic-nav-dropdown"
               >

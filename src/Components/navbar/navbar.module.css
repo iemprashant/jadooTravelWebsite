@@ -1,5 +1,4 @@
 .navbar{
-    background:white;
     height: 120px;
     padding:0px;
 }
@@ -30,3 +29,9 @@
     box-sizing: border-box;
     border-radius: 5px;
 }
+
+@media (max-width: 576px) {
+    .navbaritem{
+        margin:.25rem;
+    }
+  }

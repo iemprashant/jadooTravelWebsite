@@ -55,3 +55,29 @@
     left:-50px;
     width:100%;
 }
+.socialicon{
+    background: #DF6951;
+    box-shadow: 0px 15px 30px rgba(223, 105, 81, 0.3);
+    border-radius: 50%;
+    padding: 1rem 1.5rem ;
+    margin-right: 1.5rem;
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+}
+@media (max-width: 576px) {
+    .text2{
+        margin:1rem;
+        line-height: 70px;
+    }
+    .text4,.text5{
+        padding:.75rem 1rem;
+        font-size: 1rem;
+        line-height:1rem;
+        border-radius: .5rem;
+    }
+    .socialicon{
+        padding: .7rem 1rem ;
+        margin-right: .25rem;
+    }
+  }

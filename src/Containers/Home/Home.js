@@ -11,7 +11,7 @@ function Home() {
     <div className={styles.backgroundimg}>
       <Navbar />
       <Mainbanner />
-      {/* <Category /> */}
+      <Category />
       <Footer />
     </div>
   );

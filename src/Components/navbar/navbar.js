@@ -5,11 +5,7 @@ import styles from './navbar.module.css';
 import { Link } from 'react-router-dom';
 const navbar = () => {
   return (
-    <Navbar
-      expand="lg"
-      className={styles.navbar}
-      className="d-flex justify-content-center"
-    >
+    <Navbar expand="lg" className={styles.navbar}>
       <Container className="  m-3 mx-lg-5 px-lg-5 pd-0">
         <Container className="d-flex justify-content-between">
           <Navbar.Brand as={Link} to="/" className={styles.navbarbrand}>

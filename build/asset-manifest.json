@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.9142e2a6.css",
-    "main.js": "/static/js/main.7167ea7a.js",
+    "main.css": "/static/css/main.5871a247.css",
+    "main.js": "/static/js/main.ace1c0f9.js",
     "static/media/Traveller.png": "/static/media/Traveller.eab99e8ff11efd576131.png",
+    "static/media/icon3.svg": "/static/media/icon3.01441e3cc3193a6d9c74972580427b66.svg",
     "static/media/appstore.svg": "/static/media/appstore.eaeafb80d4f058be5d2711968fd5729e.svg",
     "static/media/googleplay.svg": "/static/media/googleplay.ac607ac848d824ee136a775d3fcfcc07.svg",
+    "static/media/icon2.svg": "/static/media/icon2.5076483a8cb30ccc5e0d3b5fde61c23b.svg",
+    "static/media/icon1.svg": "/static/media/icon1.8a9fa912a23f6966d2059fd6c7fbe7a4.svg",
     "static/media/Logo.svg": "/static/media/Logo.172e36b0c4a56a2d28c135c6282bc063.svg",
+    "static/media/icon4.svg": "/static/media/icon4.7b0883f8f065fa892a1bcc37779d6900.svg",
     "index.html": "/index.html",
-    "main.9142e2a6.css.map": "/static/css/main.9142e2a6.css.map",
-    "main.7167ea7a.js.map": "/static/js/main.7167ea7a.js.map"
+    "main.5871a247.css.map": "/static/css/main.5871a247.css.map",
+    "main.ace1c0f9.js.map": "/static/js/main.ace1c0f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.9142e2a6.css",
-    "static/js/main.7167ea7a.js"
+    "static/css/main.5871a247.css",
+    "static/js/main.ace1c0f9.js"
   ]
 }
